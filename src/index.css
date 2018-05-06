@@ -1,0 +1,28 @@
+body {
+  margin: 0;
+  padding: 0;
+  background: #f5f8fa;
+  font-family: 'Comfortaa', cursive;
+  font-size: 12px;
+  line-height: 1.6;
+  color: #636b6f;
+}
+
+a:hover {
+  text-decoration: none;
+}
+
+li {
+  list-style-type: none;
+}
+
+.group {
+  margin-top: 5px;
+  display: flex;
+
+}
+
+.group a {
+
+}
+
